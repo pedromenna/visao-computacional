@@ -1,6 +1,6 @@
 # Detecção de Veículos e Cálculo de Velocidade
 
-Este projeto implementa um sistema de detecção de veículos e cálculo de velocidade em vídeos utilizando o OpenCV e um modelo pré-treinado de deep learning, YOLOv3. O código utiliza a API DNN do OpenCV para processar as imagens capturadas de um vídeo, detectando veículos e desenhando caixas ao redor de cada um deles, além de calcular e exibir a velocidade aproximada dos veículos.
+Projeto de detecção de veículos e cálculo de velocidade em vídeos utilizando o OpenCV e um modelo pré-treinado de deep learning, YOLOv3. O código utiliza a API DNN do OpenCV para processar as imagens capturadas de um vídeo, detectando veículos e desenhando caixas ao redor de cada um deles, além de calcular e exibir a velocidade aproximada dos veículos.
 
 ## Funcionalidades
 
